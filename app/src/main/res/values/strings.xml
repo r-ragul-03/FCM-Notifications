@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FCM Notifications</string>
+    <string name="eTitle">Title</string>
+    <string name="eMessage">Message</string>
+    <string name="sendButton">Notify</string>
+    <string name="notification_channel_id">notification_channel_id</string>
+    <string name="notification_id">notification_id</string>
+    <string name="notification_channel_description">notification_channel_description</string>
+</resources>
